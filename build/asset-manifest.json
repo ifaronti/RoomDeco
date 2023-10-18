@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2717feff.css",
+    "main.js": "/static/js/main.c885cfa6.js",
+    "static/media/LeagueSpartan-Regular.ttf": "/static/media/LeagueSpartan-Regular.09958bb07a94a6a4f1bb.ttf",
+    "index.html": "/index.html",
+    "main.2717feff.css.map": "/static/css/main.2717feff.css.map",
+    "main.c885cfa6.js.map": "/static/js/main.c885cfa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2717feff.css",
+    "static/js/main.c885cfa6.js"
+  ]
+}
